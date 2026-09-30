@@ -34,7 +34,7 @@ This project helped me practice:
 1. Make sure Python 3 is installed.
 2. Clone this repository:
 
-git clone https://github.com/your-username/python-password-generator.git
+git clone https://github.com/tayyabsb/python-password-generator.git
 
 3. Open the project directory:
 
